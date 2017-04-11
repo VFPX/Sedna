@@ -6,13 +6,13 @@ Sedna is made up of six different projects:
 
 * [VistaDialogs4COM](https://vfpx.codeplex.com/wikipage?title=Sedna#VistaDialogs4COM)
 
-* [SQL Server Upsizing Wizard](https://github.com/UpsizingWizard)
+* [SQL Server Upsizing Wizard](https://github.com/VFPX/UpsizingWizard)
 
 * [Data Explorer](https://vfpx.codeplex.com/wikipage?title=Sedna#DataExplorer)
 
 * [NET4COM](https://vfpx.codeplex.com/wikipage?title=Sedna#NET4COM)
 
-* [My for VFP](https://github.com/UpsizingWizard)
+* [My for VFP](https://github.com/VFPX/My)
 
 * [DDEX for VFP](https://vfpx.codeplex.com/wikipage?title=Sedna#DDEX)
 
