@@ -8,7 +8,7 @@ Sedna is made up of six different projects:
 
 * [SQL Server Upsizing Wizard](https://github.com/VFPX/UpsizingWizard)
 
-* [Data Explorer](https://vfpx.codeplex.com/wikipage?title=Sedna#DataExplorer)
+* Data Explorer: note this project has been superseded by [DataExplorer 3](https://github.com/VFPX/DataExplorer)
 
 * [NET4COM](https://github.com/VFPX/NET4COM)
 
