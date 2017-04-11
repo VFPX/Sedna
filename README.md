@@ -4,17 +4,17 @@
 
 Sedna is made up of six different projects:
 
-* [VistaDialogs4COM](https://vfpx.codeplex.com/wikipage?title=Sedna#VistaDialogs4COM)
+* [VistaDialogs4COM](https://github.com/VFPX/VistaDialogs4COM)
 
 * [SQL Server Upsizing Wizard](https://github.com/VFPX/UpsizingWizard)
 
 * [Data Explorer](https://vfpx.codeplex.com/wikipage?title=Sedna#DataExplorer)
 
-* [NET4COM](https://vfpx.codeplex.com/wikipage?title=Sedna#NET4COM)
+* [NET4COM](https://github.com/VFPX/NET4COM)
 
 * [My for VFP](https://github.com/VFPX/My)
 
-* [DDEX for VFP](https://vfpx.codeplex.com/wikipage?title=Sedna#DDEX)
+* [DDEX for VFP](https://github.com/VFPX/DDEX)
 
 You can download the RTM version of Sedna from Microsoft at:
 [Microsoft Visual FoxPro 9.0 "Sedna" Add-Ons](http://www.microsoft.com/downloads/details.aspx?FamilyId=C04BCF8C-0944-49F0-AC2B-563518CE1D70&displaylang=en)
